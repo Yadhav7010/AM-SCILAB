@@ -75,7 +75,7 @@ Compare the original modulating signal with the demodulated signal. PROCEDURE
 •	If any Error, correct it in code and execute again
 •	Verify the generated waveform using Tabulation and Model Waveform
 
-Program:
+Program:'''
 
 clc;
 clear;
@@ -123,7 +123,7 @@ plot(t, demodulated_signal);
 title("Demodulated Signal");
 xgrid();
 
-
+'''
 Output Waveform
 
 <img width="1919" height="1198" alt="Screenshot 2026-03-22 150038" src="https://github.com/user-attachments/assets/1a69fb8f-93ab-4a03-b71d-30f2a6fb2b4c" />
