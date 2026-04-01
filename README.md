@@ -122,8 +122,8 @@ demodulated_signal = abs(hilbert(am_signal)) - Ac;
 subplot(4,1,4);
 plot(t, demodulated_signal);
 title("Demodulated Signal");
-xgrid();```
-
+xgrid();
+---
 
 Output Waveform
 
