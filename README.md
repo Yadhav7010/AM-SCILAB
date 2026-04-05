@@ -157,3 +157,4 @@ xgrid();
 
 ## RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
+<img width="547" height="1280" alt="image" src="https://github.com/user-attachments/assets/bddd7b5a-05de-43b4-9fd3-043968d9ab3d" />
